@@ -78,3 +78,24 @@ Called v3, util.yo("man") 10.000.000 times in 0.006018103 sec
 Called v3, util.yo("man") 100.000.000 times in 0.044839102 sec
 Called v3, util.yo("man") 1.000.000.000 times in 0.44347845 sec
 ```
+
+
+##Visualised
+
+- v0.10.36
+- v0.12.0
+- v1.4.3
+- v5.0.0
+
+###v1
+
+<img width="338" alt="screen shot 2015-11-06 at 15 19 29" src="https://cloud.githubusercontent.com/assets/4569111/11000559/6772651a-849a-11e5-89a8-b50ad7ebc9e3.png">
+
+###v2
+
+<img width="305" alt="screen shot 2015-11-06 at 15 21 00" src="https://cloud.githubusercontent.com/assets/4569111/11000564/6b1a761c-849a-11e5-86e3-8e2fb3984eae.png">
+
+###v3
+
+<img width="307" alt="screen shot 2015-11-06 at 15 23 06" src="https://cloud.githubusercontent.com/assets/4569111/11000576/81a0c18e-849a-11e5-8cf3-858626fd89cf.png">
+
