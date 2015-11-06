@@ -59,4 +59,22 @@ Called v3, util.yo("man") 1.000.000 times in 0.001712278 sec
 Called v3, util.yo("man") 10.000.000 times in 0.006150846 sec
 Called v3, util.yo("man") 100.000.000 times in 0.043304706 sec
 Called v3, util.yo("man") 1.000.000.000 times in 0.438791884 sec
+
+➜  node-modules-benchmark git:(master) node -v && sh ./run.sh
+v5.0.0
+Version 1
+Called v1, util.yo("man") 1.000.000 times in 0.006159096 sec
+Called v1, util.yo("man") 10.000.000 times in 0.050355642 sec
+Called v1, util.yo("man") 100.000.000 times in 0.502264655 sec
+Called v1, util.yo("man") 1.000.000.000 times in 5.359900328 sec
+Version 2
+Called v2, util.yo("man") 1.000.000 times in 0.002152581 sec
+Called v2, util.yo("man") 10.000.000 times in 0.0061409 sec
+Called v2, util.yo("man") 100.000.000 times in 0.064918604 sec
+Called v2, util.yo("man") 1.000.000.000 times in 0.563531867 sec
+Version 3
+Called v3, util.yo("man") 1.000.000 times in 0.001604179 sec
+Called v3, util.yo("man") 10.000.000 times in 0.006018103 sec
+Called v3, util.yo("man") 100.000.000 times in 0.044839102 sec
+Called v3, util.yo("man") 1.000.000.000 times in 0.44347845 sec
 ```
